@@ -2,7 +2,7 @@
 
 This innovative project leverages real-time hand tracking and gesture recognition to adjust system volume seamlessly. By detecting the distance between the thumb and index finger, the volume can be controlled intuitively and contactlessly.
 
-Key Features:
+Key Features: 
 🔹Real-time Hand Tracking: Utilizing MediaPipe’s robust hand detection and tracking capabilities.
 🔹Gesture-Based Volume Control: Adjust the volume by simply moving your fingers – an efficient and touch-free solution.
 🔹Volume Visualization: A dynamic volume bar displayed on the screen for real-time feedback.
