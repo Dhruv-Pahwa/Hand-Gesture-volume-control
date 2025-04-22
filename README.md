@@ -1,4 +1,4 @@
-🚀 Excited to share my latest project: a Hand Gesture Volume Controller using Python, OpenCV, and MediaPipe! 🤚🎶
+🚀 Excited to share my latest project: a Hand Gesture Volume Controller using Python, OpenCV, and MediaPipe!🤚🎶
 
 This innovative project leverages real-time hand tracking and gesture recognition to adjust system volume seamlessly. By detecting the distance between the thumb and index finger, the volume can be controlled intuitively and contactlessly.
 
