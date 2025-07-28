@@ -6,7 +6,7 @@ Key Features:
 🔹Real-time Hand Tracking: Utilizing MediaPipe’s robust hand detection and tracking capabilities.
 🔹Gesture-Based Volume Control: Adjust the volume by simply moving your fingers – an efficient and touch-free solution.
 🔹Volume Visualization: A dynamic volume bar displayed on the screen for real-time feedback.
-🔹Smooth Performance: Ensuring high FPS for a seamless user experience.
+🔹Smooth Performance: Ensuring high FPS for a seamless user experience. 
 
 Technical Highlights:
 💻 *Python*: The backbone of this project, integrating various libraries.
