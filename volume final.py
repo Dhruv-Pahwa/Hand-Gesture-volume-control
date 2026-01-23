@@ -89,5 +89,3 @@ with mp_hands.Hands(
 
 cam.release()
 cv2.destroyAllWindows()
-
-
